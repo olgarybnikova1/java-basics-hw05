@@ -1,5 +1,3 @@
-public class Eagle {
-  // TODO fix class declaration
+public class Eagle extends FlyingBird {
 
-  // TODO override toString method by returning a string with the class name
 }
